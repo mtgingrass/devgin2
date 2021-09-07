@@ -23,9 +23,7 @@ summary: Advance in the Government – from E-1 to GS-14 Fast. Why is there a ph
 
 # How to Advance in the Government – from E-1 to GS-14 Fast
 
-The Government is finally jumping on the emerging technologies bandwagon. The
-public sector wants to catch up to where the industry is and fast. Want to learn
-how I advanced my career into this lucrative field? Read on...
+<p id="border_blue">The Government is finally jumping on the emerging technologies bandwagon. The public sector wants to catch up to where the industry is and fast. Want to learn how I advanced my career into this lucrative field? Read on...</p>
 
 In today’s Government, there is a push for hiring a tech talented workforce. The
 government sector prides itself on engaging and empowering diverse people to
