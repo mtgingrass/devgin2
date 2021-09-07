@@ -18,7 +18,7 @@ tags:
   - 301 series
   - Regulatory Informatics Specialists
 cover: /post/2021-03-13-government-career-e1-to-gs-14-my-path.en_files/Mark Gingrass Government Photo Retirement.jpg
-summary: How to Advance in the Government – from E-1 to GS-14 Fast. Why is there a photo of me on top of El Peñón de Guatapé? To show that I live a comfortable life due to my career decisions. You can too. Click to read more. 
+summary: Advance in the Government – from E-1 to GS-14 Fast. Why is there a photo of me on top of El Peñón de Guatapé? To show that I live a comfortable life due to my career decisions. You can too. Click to read more. 
 ---
 
 # How to Advance in the Government – from E-1 to GS-14 Fast
