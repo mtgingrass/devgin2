@@ -1,5 +1,5 @@
 ---
-title: Advance your Government Career - E1 to GS-14
+title: How to Advance Government Career
 author: Mark G
 date: '2021-03-13'
 slug: government-career-e1-to-gs-14-my-path
@@ -17,13 +17,17 @@ tags:
   - 1515 series
   - 301 series
   - Regulatory Informatics Specialists
-cover: /post/2021-03-13-government-career-e1-to-gs-14-my-path.en_files/Mark Gingrass Government Photo Retirement.jpg
-summary: Advance in the Government – from E-1 to GS-14 Fast. Why is there a photo of me on top of El Peñón de Guatapé? To show that I live a comfortable life due to my career decisions. You can too. Click to read more. 
+cover: /post/2021-03-13-government-career-e1-to-gs-14-my-path.en_files/Career Path.png
+summary: Learn one way to go from E-1 to GS-14. Everyone has a different career trejectory; however, if this path sounds like you're on it, read on to get inspired.
 ---
 
 # How to Advance in the Government – from E-1 to GS-14 Fast
 
 <p id="border_blue">The Government is finally jumping on the emerging technologies bandwagon. The public sector wants to catch up to where the industry is and fast. Want to learn how I advanced my career into this lucrative field? Read on...</p>
+
+
+![Man looking up at building - successful looking.](/post/2021-03-13-government-career-e1-to-gs-14-my-path.en_files/Career Path.png)
+
 
 In today’s Government, there is a push for hiring a tech talented workforce. The
 government sector prides itself on engaging and empowering diverse people to
