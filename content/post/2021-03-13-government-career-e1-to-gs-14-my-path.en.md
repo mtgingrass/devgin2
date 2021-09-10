@@ -61,6 +61,8 @@ long videos [here](https://youtu.be/ie2GsudUs38), and part 2 is
 
 ![Road through mountains depicting a journey. ](/post/2021-03-13-government-career-e1-to-gs-14-my-path.en_files/matt-howard-A4iL43vunlY-unsplash.jpg)
 
+<p align="center">Photo by <a href="https://unsplash.com/@thematthoward?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Matt Howard</a> on <a href="https://unsplash.com/s/photos/journey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
+
 My journey started when I had an opportunity to join a program that allowed Wage
 Grade (WG) workers to convert to the General Schedule (GS). In layman’s terms,
 this means going from a blue-collar worker to a white-collar worker. The program
@@ -172,6 +174,11 @@ technology and propel me to my next role.
 
 ## Operations Researcher / Regulatory Informatics Specialist
 
+![library books with ladder](/post/2021-03-13-government-career-e1-to-gs-14-my-path.en_files/dmitrij-paskevic-YjVa-F9P9kk-unsplash.jpg)
+
+<p align="center">Photo by <a href="https://unsplash.com/@zeak?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dmitrij Paskevic</a> on <a href="https://unsplash.com/s/photos/law?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
+
+  
 I find it interesting that most scientists and engineers go deep into the rabbit
 hole of whatever they are interested in – perhaps too much. It was a time for a
 change. I have been working in the same industry for over 16 years. I decided to
@@ -184,6 +191,10 @@ get right. I am not going to get into specifics now. However, a particular skill
 you must possess is being a bureaucracy slayer. In other words, how to navigate
 the red tape of the government bureaucracy.
 
+<p><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=126057587X&asins=126057587X&linkId=52562437c8bb2b2ad4789850dd8ae4fb&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=1259162982&asins=1259162982&linkId=8bb8b2c4b31bd748e195a870b417a448&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe></p>
+    
 Solving complex issues and figuring out a way to get to the organization’s
 desired result using the tools available, in the time allotted, and under the
 budget constraints are all important factors to consider. Knowing the policies,
