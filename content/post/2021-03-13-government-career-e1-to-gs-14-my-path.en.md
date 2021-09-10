@@ -75,12 +75,8 @@ called PATHWAYS for recent grads too.
 <p id="border_1">As an Amazon Associate I earn from qualifying purchases. At no extra cost to the consumer, I get commissions for purchases made through links in this post.</p>
 
 <p align="center"><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=1483564819&asins=1483564819&linkId=250c32cb6251927094ada1f41aec3884&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
-    
-    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=0982322232&asins=0982322232&linkId=b52a995456ef9933836aeede81cb79bb&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
-    
-    </p>
+    </iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=0982322232&asins=0982322232&linkId=b52a995456ef9933836aeede81cb79bb&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe></p>
 
 These programs usually require a lengthy application process. Don’t let that
 deter you. I repeat, don’t let the application process detur you. The fact that
