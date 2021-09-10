@@ -21,6 +21,16 @@ cover: /post/2021-03-13-government-career-e1-to-gs-14-my-path.en_files/cpath.jpg
 summary: Learn one way to go from E-1 to GS-14. Everyone has a different career trejectory; however, if this path sounds like you're on it, read on to get inspired.
 ---
 
+<style>
+#border_1 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: blue;
+}
+</style>
+
 # How to Advance in the Government – from E-1 to GS-14 Fast
 
 <p id="border_blue">The Government is finally jumping on the emerging technologies bandwagon. The public sector wants to catch up to where the industry is and fast. Want to learn how I advanced my career into this lucrative field? Read on...</p>
