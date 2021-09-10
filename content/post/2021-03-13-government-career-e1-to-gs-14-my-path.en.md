@@ -18,7 +18,7 @@ tags:
   - 301 series
   - Regulatory Informatics Specialists
 cover: /post/2021-03-13-government-career-e1-to-gs-14-my-path.en_files/cpath.jpg
-summary: How to advance from GS-5 to GS-7/9/11/12. Then from GS-12 to NH-3. Finally, GS-14. From enlisted E-1 to full bird colonal level equivelent. 
+summary: How to advance from GS-5 to GS-7/9/11/12 in the Government. From GS-12 to NH-3 to GS-14. From Enlisted, E-1, to Full Bird Colonal O-6. 
 ---
 
 <style>
