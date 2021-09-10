@@ -49,6 +49,8 @@ I talk about my background and how I advanced within the Government in these two
 long videos [here](https://youtu.be/ie2GsudUs38), and part 2 is
 [here](https://youtu.be/psiBi98xHa0).
 
+![Road through mountains depicting a journey. ](/post/2021-03-13-government-career-e1-to-gs-14-my-path.en_files/matt-howard-A4iL43vunlY-unsplash.jpg)
+
 My journey started when I had an opportunity to join a program that allowed Wage
 Grade (WG) workers to convert to the General Schedule (GS). In layman’s terms,
 this means going from a blue-collar worker to a white-collar worker. The program
