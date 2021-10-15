@@ -1,0 +1,116 @@
+---
+title: Contracts Overview - Cradle to Grave
+output:
+  html_document:
+    toc: true
+    toc_float: true
+author: 'Mark G'
+cover: /post/2021-01-28-contracts-overview-cradle-to-grave.en_files/piggy-bank-850608_640.jpg
+date: '2021-01-28'
+slug: contracts-overview-cradle-to-grave
+categories: []
+tags: []
+summary: You have a bona fide business need (Appropriations Law rule). There is a pain-point in the business community that can be solved with some Commercial Off the Shelf (COT) technology. You do the research and discover a certain software brand name that can solve the problem. How do you go from zero, nada, scratch, to an implemented solution?
+---
+
+<style>
+#border_1 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: blue;
+}
+</style>
+
+Evaluation of Contract Proposals within the Government -- a simple example.
+--------------------------------------------------------------------------
+
+Let's get straight to the point. You have a bona fide business need. There is a pain-point in the business community that can be solved with some Commercial Off the Shelf (COT) technology. You do the research and discover a certain software brand name that can solve the problem. How do you go from zero, nada, scratch, to an implemented solution? In this article, I will give an example of how this process works, from cradle-to-grave. This is a higher-level overview and not comprehensive. Each step in this article can be expanded to pages of content; however, I will paint broad strokes and just give a high-level overview of the process.
+
+<p id="border_1">As an Amazon Associate I earn from qualifying purchases. At no extra cost to the consumer, I get commissions for purchases made through links in this post.</p>
+
+
+Budgeting
+---------
+
+First things first. You can't do anything without money planned -- a budget, or a line item that says you have money to even pursue this type of solution. Someone in your organization maintains a planned budget. You must, in advance, let that person know you plan on purchasing software. This is tricky because you may not know exactly what you need today. How do you tell the budget authority you want XXX dollars if you don't know the exact costs? Truth be told, you can base it off of best-effort estimates. Perhaps, you have a yearly budget you can go off. Maybe you spend $800,000 per year on licenses for the company and that money can be divided into many products or services. Perhaps, you have a pretty good understanding that you want software that is commercially available and has a price tag online to base this off. The point is, you need money. There is not a single correct method, it's whatever methods your organization can support and defend.
+
+<p align="center">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=173419815X&asins=173419815X&linkId=fe225616b71c13362f6f20e359684f1d&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe> <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=B014SZY9T0&asins=B014SZY9T0&linkId=4883777c60d5a728d9a0d06d9ac3659e&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+</p>
+
+Requirements Gathering
+----------------------
+
+It is necessary to understand the pain-points of the end-user of the software. What problem are you really trying to solve? Ask yourself a few of these questions first:
+
+1.  Is this really a problem?
+2.  Do we even need to do these processes?
+3.  Can we automate the processes with in-house solutions or open source solutions?
+4.  Is the economic cost worth the automation?
+
+There are plenty more questions to ask, but you have to really think about why you are spending money to solve this problem. How often does the problem come up (frequency)? You need a business case as to why it's worth spending that budgeted (planned) money.
+
+Next, shadow the business user and get a true understanding of the process. Many times, they describe the process one way, but do the work in a different way. It's not their fault, they do this process often and skip steps. It's your job to make sure to capture the exact steps in the process.
+
+Statement of Work or Performance Work Statement
+-----------------------------------------------
+
+The next step is to put everything down, in writing. This could be either in a Statement of Work (SOW) or a Performance Work Statement (PWS). The SOW is simply a document that describes the work to be done. It defines activities and deliverables and usually a timeline. The PWS describes performance objectives that are expected of the contractor. The PWS is more about results than the "how" of getting the desired outcome.
+
+Estimate Cost
+-------------
+
+Now that you have the SOW or PWS, it's time to break it down to estimate the costs associated with the work, or results. There are many ways of estimating costs. One common way is to look at the past history of a similar type of PWS/SOW. If it's similar work, perhaps it's similar costs. Another method is to try to break down the work performed into manageable chunks and calculating the costs that way. Knowing exactly which types of labor categories is very helpful. For example, you need to know if you need a developer or a project manager or a technical writer.
+
+<p align="center">![Calculator](/post/2021-01-28-contracts-overview-cradle-to-grave.en_files/accountant-1238598_640.jpg)</p>
+
+It's hard to determine the proper labor categories without experience. Reach out to colleagues and to other departments to see if they have Subject Matter Experts that can assist. If you need to maintain servers under the contract, reach out to your IT department to ask for estimated costs, perhaps. After all, if it costs your organization XXX dollars to maintain a server, surely, a contractor can compete with that cost. Another way to estimate costs is to get a Rough Order of Magnitude price estimate from several vendors for similar work. Be careful with this approach because it might give vendors an unfair advantage if the information you provide them to make the estimate is not available to other vendors. There are many other methods as well. I suggest you research how to do an independent cost estimate for a project and start there.
+
+Within the government, the estimated cost worksheet will be called the Independent Government Cost Estimate, or IGCE.
+
+Select Contract Vehicle
+-----------------------
+
+This step may be optional, depending on your circumstance. Many organizations will have either a Blanket Purchase Agreement (BPA) or an Indefinite Delivery, Indefinite Quantity (IDIQ) type contract already in place. If this is the case, then you can *piggyback* off of those contracts if it suits your needs. For example, many organizations have a larger, enterprise-level, contract that covers all computer hardware for their employees. When a new employee enters the workforce, they simply request a new computer through the contract that is already in place. In my world, we have an umbrella contract, a BPA that covers many IT software development initiatives.
+
+What this really means is that there are a select set of vendors already preapproved to do the work you are asking them to perform. When you create a Task Order (TA) off of the BPA, you are limited to the set of vendors already pre-selected. This makes competition slightly less, but it also expedites the time to award the contract.
+
+Work with the Team
+------------------
+
+Typically, you would get the subject matter experts to review the SOW or PWS. You would have the financial folks review the IGCE. You then would have your supervisor review the entire package. Every organization will have multiple documents that need to go with the SOW/PWS & IGCE. You may need a formal Acquisition Plan (AP) to go with it as well. This is not an individual's sole responsibility. The leadership and management teams are signing off on this purchase. They should be involved in the entire process. Do not be afraid to look to them for guidance.
+
+Send Package to the Contracting Team
+------------------------------------
+
+Cross your T's and dot your I's and send the package to the contracting team. The contracting team will put the legal jargon into the SOW/PWS and double-check everything is good for a solicitation. There is usually a little bit of back and forth with questions between the contracting team and your internal team. This is normal. The contracting team does not understand your particular needs as well as you do. Once everything is good, the contracting team will solicit the contract to the public, or to the vendors on the BPA/IDIQ. Most likely, the contracting team will ask you how you plan on evaluating the proposals. How do you know which vendor is the right choice? This means you may have to have already come up with a method of evaluation. The contracting team will allow the vendors to respond to the Request for Quote (RFQ) -- the solicitation. This can range from 15 days to 60 days and sometimes much longer, depending on the total value of the contract. Imagine a response to building the B-2 Bomber? That response might take months to years.
+
+<p align="center"><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=1634594444&asins=1634594444&linkId=20b4d3b46b86c4b06252a028f9843c9c&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+</p>
+
+Evaluate the Proposals and Make Recommendation
+----------------------------------------------
+
+The vendor responses have now arrived, and the contracting team has vetted them. Now, they send you the redacted proposals. Usually, they send just the technical documents without any pricing attached, first.
+
+If you are working with a simple contract, like a license to use software or buying a few computers, you may do the evaluations by yourself. This will also depend on your organization's policies.  More complex projects may require a team of people sometimes referred to as a Program Action Group (PAG). The PAG would refer to the evaluation criteria created before the proposals came in. The PAG would individually evaluate, based on the evaluation criteria, and write up the responses and recommendations. When all evaluations are completed, there would be what they call a *consensus* meeting where there will be a meeting of the minds -- a determination and recommendation.
+
+Sometimes, with commodities like a license or computer hardware, all proposals end up being technically acceptable. In this case, you would normally proceed with recommending the lowest cost bid.
+
+Award Contract and Administrate
+-------------------------------
+
+Finally, after all the work you have completed, the contract is awarded to the vendor. Now, it's up to the contracting administrator to make sure the contract is being run smoothly and following the scope of the SOW or PWS.
+
+Final Thoughts
+--------------
+
+What I talked about in this article is only the tip of the ice burg when it comes to how contracts are created from scratch. Most of my material will relate to government contracts; however, the concepts can apply to the private sector as well. The main difference is that the government must be fair and unbiased with its solicitation and selection process. In the private sector, you can simply go with your favorite contract despite the cost or technical merit.
+
+There are many, many steps missing from this article and there are several exceptions, too. The goal was to give you an overview, only, of some ways contracting could work in your organization.
+
+Comment below with your questions or feedback.

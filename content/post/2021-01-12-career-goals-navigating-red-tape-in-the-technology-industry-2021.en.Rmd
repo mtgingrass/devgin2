@@ -1,0 +1,83 @@
+---
+title: Career Goals & Navigating Red Tape in the Technology Industry 2021
+author: Mark G
+cover: /post/2021-01-12-career-goals-navigating-red-tape-in-the-technology-industry-2021.en_files/computer-1209641_640.jpg
+date: '2021-01-12'
+slug: career-goals-navigating-red-tape-in-the-technology-industry-2021
+categories:
+  - Technology
+  - Career
+tags: []
+summary: Sharing ways to start your year off right with some high-tech career goal advice. Especially within the tech industry, where there are record-level employment opportunities.
+---
+<style>
+#border_1 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: blue;
+}
+</style>
+So, I am a little late for 2021 career goals. It&#39;s well past the first week of 2021. That&#39;s okay, it&#39;s never too late to start. Do you want to land your dream job or get promoted? How about a career change? No matter what your motivation is, establishing goals will set you up for success.
+
+<p id="border_1">As an Amazon Associate I earn from qualifying purchases. At no extra cost to the consumer, I get commissions for purchases made through links in this post.</p>
+
+<p align = "center">![Girl studying on laptop. ](/post/2021-01-12-career-goals-navigating-red-tape-in-the-technology-industry-2021.en_files/laptop-3087585_640.jpg)</p>
+
+In this article, I am going to share ways to start your year off right with some high-tech career goal advice. Especially within the tech industry, where there are record-level employment opportunities.
+
+## Get Into the Tech Industry in 2021?
+
+I didn&#39;t realize this at first, but anyone can get into the technology business. You don&#39;t have to be a programmer or a build computer as a hobby. You don&#39;t have to have a computer science degree, or even an engineering degree. Honestly, it&#39;s about working with many disciplines and connecting the highly technical folks with the business minded end users. And, everything in-between.
+
+## Red Tape in the Tech Industry
+
+<p align="center">![Red Tape Barrior](/post/2021-01-12-career-goals-navigating-red-tape-in-the-technology-industry-2021.en_files/barrier-4968002_640.jpg)</p>
+
+Believe it, or not, navigating red tape is fundamental in the tech industry. Some of you may know how to program a &quot;hello world&quot; console application using a dozen different languages. 
+
+<p align="center">![Hello World in Python](/post/2021-01-12-career-goals-navigating-red-tape-in-the-technology-industry-2021.en_files/Screen Shot 2021-01-12 at 10.38.27 PM.png)</p>
+
+That&#39;s fine and dandy, but in the world of big tech, learning how the Enterprise systems work is where it&#39;s at. I&#39;ll explain more in the next few paragraphs.
+
+First, take a step back. Look at the big picture. What systems do you have in place today? Can you name all the interconnected systems? Do you know how they communicate with each other? How often do they synchronize data? What are the inputs and outputs of each system? Why is each system even necessary? You see, learning the big picture view of the entire Enterprise is worth a lot.
+
+The &quot;hello world&quot; programming on your local hard drive is not going to cut it. How do you use a dev, test, preproduction, and production environments? Why do you need those? What paperwork do you have to go through in order to provision the servers? Do you have to register your project somewhere? How do you keep trac of lifecycle costs? If you start to answer these questions, you are well on your way to becoming a technology expert.
+
+Navigating the bureaucracy is valuable! Learn how to do this in your organization.
+
+The Project Manager is not going to know the technology behind the project in and out. Sure, they will help you organize the risk register, keep things on schedule, help sell the product, have a master schedule, etc. What they won&#39;t know is the Enterprise, big picture, technology view. It&#39;s your job to sell and communicate the needs to the PM, the stakeholders, the end users, and to the decision makers. That&#39;s what can make you valuable, your ability to persuade an audience that doesn&#39;t know the tech side.
+
+## Educate Yourself in Tech
+
+Consider various educational programs and learning methods for breaking into this industry. Remember, just understanding the lingo will get you in the door. You can&#39;t develop those soft skills needed to thrive in the role without some help. I&#39;m a personal fan of reading books in the tech industry. Mostly because it&#39;s usually the most affordable route. Technology changes often and you can pick up a good book between $20-$40 usually. I would recommend reading at least one technology related book every few months to keep up to date.
+
+There are plenty of books that will help you get there. <a target="_blank" href="https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=hatro-20&linkId=26141ffcbb16a38274291c0ab794ed97">Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hatro-20&l=am2&o=1&a=1449373321" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is a great start. There will be plenty of information you are not very familiar with at first. However, if you read this book, you will start to understand the tech industry jargon and you will slowly piece it all together. This book gives a high-level understanding of different technologies, and the problems it is trying to solve. A great book for all practitioners who want to learn essential concepts quickly. The author describes complex concepts simply, which demonstrates a real mastery of the subject.
+
+Another good book, <a target="_blank" href="https://www.amazon.com/gp/product/1782224734/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1782224734&linkCode=as2&tag=hatro-20&linkId=031ac468e974634249333fecdce4e4a7">The Data Model Toolkit: Simple Skills To Model The Real World (Data Architecture Fundamentals)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hatro-20&l=am2&o=1&a=1782224734" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, is a great resource to expand your skillset and knowledge base. Again, there are some advanced concepts; however, this book is very easy to understand, and it&#39;s clearly written.
+
+Finally, <a target="_blank" href="https://www.amazon.com/gp/product/1976182190/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1976182190&linkCode=as2&tag=hatro-20&linkId=7afcf2e64ad098484cc58ad63e70f446">Swipe to Unlock: The Primer on Technology and Business Strategy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hatro-20&l=am2&o=1&a=1976182190" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, authored by 3 Product Managers at Google, Facebook, and Microsoft, is a must read. This book is a collection of case studies about important subjects that are not taught much in a university setting. What makes you motivated, what are some tech industry trends, government industry and more. Although this book is geared towards Product Managers, I think it will be a great addition to your brain bank.
+
+<p align="center"><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=1449373321&asins=1449373321&linkId=4fe4f50e5a05e9eae5ad8f6ce40ec6cf&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=1782224734&asins=1782224734&linkId=3abcad3b6372e49816730cb64ed6b09f&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=1976182190&asins=1976182190&linkId=582e0871049ff00b01f8fac00e2beae2&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe></p>
+
+I&#39;m not trying to say you should become a Data Architect overnight. I simply think learning the data architecture vernacular and terminology can get you in the door as any type of technologist.
+
+## Make a Reputation for Yourself
+
+Be knowns at the person who understands more than just how to code. Don&#39;t be afraid to share knowledge. Don&#39;t be afraid to talk to leadership or supervision about your Enterprise view and ideas. Even if you don&#39;t get the credit right away, you can influence people around you immediately. No idea is off the table. In fact, as you discuss your grand vision, from time to time, potential employers will notice. You want to make a voice for yourself. Be heard. Let the world know you want to control the technology in your organization.
+
+## Get a Mentor
+
+Everyone should know the value of a good mentor. I&#39;m not going to get into the reasons why you need one. Instead, I will give you some tips to find mentors.
+
+1. Join a Meet Up group. There are tons of meetup groups around technology. Download the app and start exploring.
+2. Join ad-hoc working groups within your organization and meet the other&#39;s who are also interested in this same career. It&#39;s okay if you don&#39;t know how to contribute, at first. Let them know that you are eager to learn, and you are going to listen in and be part of the group as you grow.
+3. Talk to your colleagues outside of formal work. See what their interests are. Join the happy hours.
+4. Go to work sponsored events and network.
+5. Search for Reddit posts on the subject. Simply type in a Google search, &quot;Technology Reddit&quot; and I guarantee you will fall down the Reddit rabbit hole and read for hours.
+
+The key is to be genuine. Honesty will go a long way. I sometimes start a conversation off by saying, &quot;I&#39;m very ignorant to the subject but I&#39;m interested in learning. Can you help me understand this topic more?&quot; People love to teach, you will see.
